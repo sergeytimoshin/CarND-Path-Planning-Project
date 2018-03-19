@@ -139,9 +139,8 @@ still be compilable with cmake and make./
 
 #### Rubric points
 
-
-– The car is able to drive at least 4.32 miles without incident.
-– The car drives according to the speed limit. The car doesn't drive faster than the speed limit. Also the car isn't driving much slower than speed limit unless obstructed by traffic.
+- The car is able to drive at least 4.32 miles without incident.
+- The car drives according to the speed limit. The car doesn't drive faster than the speed limit. Also the car isn't driving much slower than speed limit unless obstructed by traffic.
 - Max Acceleration and Jerk are not Exceeded. The car does not exceed a total acceleration of 10 m/s^2 and a jerk of 10 m/s^3.
 - Car does not have collisions.
 - The car stays in its lane, except for the time between changing lanes.
@@ -149,7 +148,7 @@ still be compilable with cmake and make./
 - The car is able to smoothly change lanes when it makes sense to do so, such as when behind a slower moving car and an adjacent lane is clear of other traffic.
 
 
-[Result video (10 miles): ](https://youtu.be/qf3UsrntfT8)
+[Result video (10 miles)](https://youtu.be/qf3UsrntfT8)
 
 #### Reflection
 
